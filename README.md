@@ -1,8 +1,8 @@
 # Everyday Things, Two Lines
 
-![Competition](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479.svg)
-![Rank](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479/SRamadhan-07/makefun-everyday-two-lines/rank.svg)
-![Reward](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479/SRamadhan-07/makefun-everyday-two-lines/reward.svg)
+[![make.fun · u-suga-everyday-things-two-lines-longer-run-f8734479](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479?utm_source=github&utm_medium=readme&utm_campaign=u-suga-everyday-things-two-lines-longer-run-f8734479)
+[![rank](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479/SRamadhan-07/makefun-everyday-two-lines/rank.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suga-everyday-things-two-lines-longer-run-f8734479)
+[![reward](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479/SRamadhan-07/makefun-everyday-two-lines/reward.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479?utm_source=github&utm_medium=readme&utm_campaign=u-suga-everyday-things-two-lines-longer-run-f8734479)
 
 A Python program that writes a two-line analogy: a queue is a train of people, plus an honest note on what the analogy leaves out.
 
